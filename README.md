@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## About me:
 - 💻  I'm currently working for Oracle Consulting
 - 🚀  I'm an enthusiast of Infrastructure automation and DevOps
+- 📊. I like to bring Oracle's Database customers closer to DevOps and Cloud Native tools
 - 🎯  Our goal is to solve customer's problems with innovative architectures and solutions
 - 📖  I use github to store my project's knowledge and share them
 - 📫  You can reach me at https://www.linkedin.com/in/hfolguera or hfolguera@gmail.com
